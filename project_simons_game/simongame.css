@@ -1,0 +1,35 @@
+.outer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.button{
+    height:150px;
+    width:150px;
+    margin: 10px;
+    border:10px solid black;
+    border-radius: 20%;
+    text-align: center;
+    
+    
+}
+.navy{
+    background-color: #b48637;
+}
+.peal{
+    background-color: #71bbb2;
+    
+}
+.beige{
+    background-color: #497d74;
+   
+}
+.red{
+    background-color: #27445d;
+    
+}
+
+.w{
+    background-color: white;
+}
